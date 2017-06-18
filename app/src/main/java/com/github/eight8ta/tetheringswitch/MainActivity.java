@@ -24,17 +24,14 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onReceive(Context context, Intent intent) {
                 Log.i(tag, "onReceive ACTION_SCREEN_ON ontime=" + ontime);
-                if (ontime == 0) {
-                    ontime = System.currentTimeMillis();
-                }
-                else {
-                    long cur = System.currentTimeMillis();
+                long cur = System.currentTimeMillis();
+                if (ontime != 0) {
                     Log.i(tag, "diff=" + (cur - ontime));
                     if (cur - ontime < 500) {
                         Toggle();
                     }
-                    ontime = 0;
                 }
+                ontime = cur;
             }
         }, filter);
 
