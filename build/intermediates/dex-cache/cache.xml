@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/hattayukihiko/.android/build-cache/722d0b523054f0c326fe35f1e71b8ba8ee44e6e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/hattayukihiko/AndroidStudioProjects/tetheringswitch/app/build/intermediates/pre-dexed/debug/classes_3cc00fed104a9b6aedd931ff7fe6f1c4fd14f424.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hattayukihiko/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.1/constraint-layout-solver-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="/Users/hattayukihiko/AndroidStudioProjects/tetheringswitch/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.1_319ea6fe659141c4e90b81435a04eb810c001713.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hattayukihiko/AndroidStudioProjects/tetheringswitch/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa135a1e1f4a7ae259a5a6475cef350dc1567698">
+        <dex dex="/Users/hattayukihiko/AndroidStudioProjects/tetheringswitch/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_74a868294bbcc9c3b396994d508bbd0e8768d7af/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hattayukihiko/.android/build-cache/4571cd2a9e0f72910cb7c05b6f4bced671accce3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="/Users/hattayukihiko/AndroidStudioProjects/tetheringswitch/app/build/intermediates/pre-dexed/debug/classes_1bb301a3aed81936c307890ad8fc475a37ddf1bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hattayukihiko/.android/build-cache/19ce9b64c7b903319afed67f7fbb592a71ccdf98/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/hattayukihiko/AndroidStudioProjects/tetheringswitch/app/build/intermediates/pre-dexed/debug/classes_ba2a05b2ac66b3403c68860c7f1513e6e23024fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hattayukihiko/.android/build-cache/d36831ccb7569c7d0885a93173d942b6e1c8828d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/hattayukihiko/AndroidStudioProjects/tetheringswitch/app/build/intermediates/pre-dexed/debug/classes_c80031894e12ce315ecc0bbd5aa05735b73dbcf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hattayukihiko/.android/build-cache/db75d4348933f33cdbe0226b65a06313d11f27ce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/hattayukihiko/AndroidStudioProjects/tetheringswitch/app/build/intermediates/pre-dexed/debug/classes_6aff4f3bba0d5bbe09f3f3d182e0bbac7d579df5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hattayukihiko/.android/build-cache/06ec4e34349e70970e53ab11f3bfeecb7182fffd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/hattayukihiko/AndroidStudioProjects/tetheringswitch/app/build/intermediates/pre-dexed/debug/classes_96341624a95d10fa62673cc50f1057b30999d2dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hattayukihiko/.android/build-cache/7ebc18c88c79e2cf2ae9661779f7cde6ab0cb285/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/hattayukihiko/AndroidStudioProjects/tetheringswitch/app/build/intermediates/pre-dexed/debug/classes_2514ac3a32bd79b46f7a7c56d5b3c4a4c28170d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hattayukihiko/.android/build-cache/0a4f178a52721ff1eb49f56cead021207c6792a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/hattayukihiko/AndroidStudioProjects/tetheringswitch/app/build/intermediates/pre-dexed/debug/classes_4b921f1969a5f9a99d2f33bef50a62d7f0e0cd4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hattayukihiko/.android/build-cache/d1811fae2c5932985da87ce99feaece38c75c6e7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/hattayukihiko/AndroidStudioProjects/tetheringswitch/app/build/intermediates/pre-dexed/debug/classes_100b1b5095c0482746db083fa78c9583dca7ee61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hattayukihiko/.android/build-cache/d4e1d65de7bed29d5b17d448b644a22050053d31/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/hattayukihiko/AndroidStudioProjects/tetheringswitch/app/build/intermediates/pre-dexed/debug/classes_ba9673237afd7e605ab28828de0b5db860003243.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hattayukihiko/AndroidStudioProjects/tetheringswitch/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/hattayukihiko/AndroidStudioProjects/tetheringswitch/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_83bf9b884c6edcb9c5c977d8f56fb52edd6f1844/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hattayukihiko/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/hattayukihiko/AndroidStudioProjects/tetheringswitch/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_84e372b2bc7aa38ea14dd0a5c36e73232615ca6c.jar" />
+    </item>
+
+</items>

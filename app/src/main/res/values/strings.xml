@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TetheringSwitch</string>
+    <string name="toggle_button">Toggle!</string>
 </resources>

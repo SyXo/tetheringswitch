@@ -6,12 +6,14 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.content.*;
 import android.util.Log;
+import android.view.View;
 
 import java.lang.reflect.Method;
 
 
 public class MainActivity extends AppCompatActivity {
 
+    static final String tag = "[TetheringSwitch]";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -21,12 +23,13 @@ public class MainActivity extends AppCompatActivity {
         this.getApplicationContext().registerReceiver(new BroadcastReceiver() {
             @Override
             public void onReceive(Context context, Intent intent) {
-                System.out.println("onReceive ACTION_SCREEN_ON");
+                Log.i(tag, "onReceive ACTION_SCREEN_ON ontime=" + ontime);
                 if (ontime == 0) {
                     ontime = System.currentTimeMillis();
                 }
                 else {
                     long cur = System.currentTimeMillis();
+                    Log.i(tag, "diff=" + (cur - ontime));
                     if (cur - ontime < 500) {
                         Toggle();
                     }
@@ -39,9 +42,17 @@ public class MainActivity extends AppCompatActivity {
         this.getApplicationContext().registerReceiver(new BroadcastReceiver() {
             @Override
             public void onReceive(Context context, Intent intent) {
-                System.out.println("onReceive ACTION_SCREEN_OFF");
+                Log.i(tag, "onReceive ACTION_SCREEN_OFF");
             }
         }, filter);
+
+        findViewById(R.id.button_toggle).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Toggle();
+            }
+        });
+
     }
     long ontime=0;
     void Toggle()
@@ -54,14 +65,15 @@ public class MainActivity extends AppCompatActivity {
             is_ap_enabled = "true".equals(method.invoke(wifi).toString());
         }
         catch (Exception e) {
-            Log.e("[TetheringSwitch]", e.getMessage(), e);
+            Log.e(tag, e.getMessage(), e);
         }
+        Log.i(tag, "is_ap_enabled=" + is_ap_enabled);
         try {
             Method method;
             method = wifi.getClass().getMethod("setWifiApEnabled", WifiConfiguration.class, boolean.class);
             method.invoke(wifi, null, !is_ap_enabled);
         } catch (Exception e) {
-            Log.e("[TetheringSwitch]", e.getMessage(), e);
+            Log.e(tag, e.getMessage(), e);
         }
     }
 }
