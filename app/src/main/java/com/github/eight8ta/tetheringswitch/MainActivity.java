@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.content.*;
 import android.util.Log;
 import android.view.View;
+import android.widget.Toast;
 
 import java.lang.reflect.Method;
 
@@ -20,26 +21,14 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         IntentFilter filter = new IntentFilter(Intent.ACTION_SCREEN_ON);
-        this.getApplicationContext().registerReceiver(new BroadcastReceiver() {
-            @Override
-            public void onReceive(Context context, Intent intent) {
-                Log.i(tag, "onReceive ACTION_SCREEN_ON ontime=" + ontime);
-                long cur = System.currentTimeMillis();
-                if (ontime != 0) {
-                    Log.i(tag, "diff=" + (cur - ontime));
-                    if (cur - ontime < 500) {
-                        Toggle();
-                    }
-                }
-                ontime = cur;
-            }
-        }, filter);
+        this.getApplicationContext().registerReceiver(m_receiver, filter);
 
         filter = new IntentFilter(Intent.ACTION_SCREEN_OFF);
         this.getApplicationContext().registerReceiver(new BroadcastReceiver() {
             @Override
             public void onReceive(Context context, Intent intent) {
-                Log.i(tag, "onReceive ACTION_SCREEN_OFF");
+                offtime = System.currentTimeMillis();
+                Log.i(tag, "onReceive ACTION_SCREEN_OFF offtime=" + offtime);
             }
         }, filter);
 
@@ -51,7 +40,25 @@ public class MainActivity extends AppCompatActivity {
         });
 
     }
-    long ontime=0;
+    long offtime=0;
+    private final BroadcastReceiver m_receiver = new BroadcastReceiver() {
+        @Override
+        public void onReceive(Context context, Intent intent) {
+            Log.i(tag, "onReceive ACTION_SCREEN_ON offtime=" + offtime);
+            long cur = System.currentTimeMillis();
+            if (offtime != 0) {
+                Log.i(tag, "diff=" + (cur - offtime));
+                if (cur - offtime < 500) {
+                    Toggle();
+                }
+            }
+        }
+    };
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        unregisterReceiver(m_receiver);
+    }
     void Toggle()
     {
         Context context = this.getApplicationContext();
@@ -63,6 +70,7 @@ public class MainActivity extends AppCompatActivity {
         }
         catch (Exception e) {
             Log.e(tag, e.getMessage(), e);
+            Toast.makeText(context, e.getMessage(), Toast.LENGTH_LONG).show();
         }
         Log.i(tag, "is_ap_enabled=" + is_ap_enabled);
         try {
@@ -71,6 +79,8 @@ public class MainActivity extends AppCompatActivity {
             method.invoke(wifi, null, !is_ap_enabled);
         } catch (Exception e) {
             Log.e(tag, e.getMessage(), e);
+            Toast.makeText(context, e.getMessage(), Toast.LENGTH_LONG).show();
         }
+        Toast.makeText(context, is_ap_enabled ? "on -> off" : "off -> on", Toast.LENGTH_LONG).show();
     }
 }
