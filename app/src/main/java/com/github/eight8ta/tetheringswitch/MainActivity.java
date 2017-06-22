@@ -21,16 +21,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         IntentFilter filter = new IntentFilter(Intent.ACTION_SCREEN_ON);
-        this.getApplicationContext().registerReceiver(m_receiver, filter);
+        this.getApplicationContext().registerReceiver(receiver_on, filter);
 
         filter = new IntentFilter(Intent.ACTION_SCREEN_OFF);
-        this.getApplicationContext().registerReceiver(new BroadcastReceiver() {
-            @Override
-            public void onReceive(Context context, Intent intent) {
-                offtime = System.currentTimeMillis();
-                Log.i(tag, "onReceive ACTION_SCREEN_OFF offtime=" + offtime);
-            }
-        }, filter);
+        this.getApplicationContext().registerReceiver(receiver_off, filter);
 
         findViewById(R.id.button_toggle).setOnClickListener(new View.OnClickListener() {
             @Override
@@ -38,10 +32,9 @@ public class MainActivity extends AppCompatActivity {
                 Toggle();
             }
         });
-
     }
     long offtime=0;
-    private final BroadcastReceiver m_receiver = new BroadcastReceiver() {
+    private final BroadcastReceiver receiver_on = new BroadcastReceiver() {
         @Override
         public void onReceive(Context context, Intent intent) {
             Log.i(tag, "onReceive ACTION_SCREEN_ON offtime=" + offtime);
@@ -54,10 +47,18 @@ public class MainActivity extends AppCompatActivity {
             }
         }
     };
+    private final BroadcastReceiver receiver_off = new BroadcastReceiver() {
+        @Override
+        public void onReceive(Context context, Intent intent) {
+            offtime = System.currentTimeMillis();
+            Log.i(tag, "onReceive ACTION_SCREEN_OFF offtime=" + offtime);
+        }
+    };
     @Override
     protected void onDestroy() {
         super.onDestroy();
-        unregisterReceiver(m_receiver);
+        unregisterReceiver(receiver_on);
+        unregisterReceiver(receiver_off);
     }
     void Toggle()
     {
