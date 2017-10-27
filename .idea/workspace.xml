@@ -10,52 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="191b1725-896c-40f0-9fb8-5b24ecaf1d72" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_animated_vector_drawable_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_appcompat_v7_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_constraint_constraint_layout_1_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_compat_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_core_ui_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_core_utils_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_fragment_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_media_compat_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_v4_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_vector_drawable_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_test_espresso_espresso_core_2_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_test_espresso_espresso_idling_resource_2_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_test_exposed_instrumentation_api_publish_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_test_rules_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_test_runner_0_5.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_25_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_25_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/constraint_layout_1_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/espresso_core_2_2_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/espresso_idling_resource_2_2_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/exposed_instrumentation_api_publish_0_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/rules_0_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/runner_0_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_compat_25_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_ui_25_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_utils_25_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_fragment_25_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_media_compat_25_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_25_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_25_3_1.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/constraint_layout_solver_1_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_constraint_constraint_layout_solver_1_0_1_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/org_hamcrest_hamcrest_core_1_3_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_integration_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/org_hamcrest_hamcrest_integration_1_3_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_library_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/org_hamcrest_hamcrest_library_1_3_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/javawriter_2_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_squareup_javawriter_2_1_1_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/javax_annotation_api_1_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/javax_annotation_javax_annotation_api_1_2_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/javax_inject_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/javax_inject_javax_inject_1_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/jsr305_2_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_google_code_findbugs_jsr305_2_0_1_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12_jar.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_annotations_25_3_1_jar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tetheringswitch" afterPath="$PROJECT_DIR$/tetheringswitch" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
     </list>
     <ignored path="tetheringswitch.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -87,11 +44,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/eight8ta/tetheringswitch/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="65" column="88" lean-forward="false" selection-start-line="65" selection-start-column="88" selection-end-line="65" selection-end-column="88" />
+            <state relative-caret-position="34">
+              <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
               <folding>
                 <element signature="e#962#1104#0" expanded="true" />
                 <element signature="e#1103#1104#0" expanded="true" />
@@ -104,52 +61,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-          <provider selected="true" editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider editor-type-id="android-manifest">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="68" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="GenerateSignedApkSettings">
@@ -158,12 +69,10 @@
     <option name="REMEMBER_PASSWORDS" value="true" />
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--follow-tags" />
-        <option name="title" value="Current Branch" />
-      </GitPushTagMode>
+      <GitPushTagMode />
     </option>
   </component>
   <component name="GradleLocalSettings">
@@ -1944,12 +1853,250 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
-    <property name="device.picker.selection" value="CB5125Q7HM" />
+    <property name="device.picker.selection" value="Nexus_5_API_25" />
     <property name="FullScreen" value="true" />
     <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/app" />
     <property name="ExportApk.Flavors" value="" />
     <property name="ExportApk.BuildType" value="release" />
     <property name="ExportApk.SignV1" value="true" />
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.DS_Store</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.gradle/3.3/taskArtifacts/fileHashes.bin</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.gradle/3.3/taskArtifacts/fileSnapshots.bin</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.gradle/3.3/taskArtifacts/taskArtifacts.bin</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.gradle/3.3/taskArtifacts/taskArtifacts.lock</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.gradle/3.3/tasks/_app_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.gradle/3.3/tasks/_app_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.gradle/3.3/tasks/_app_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.gradle/3.3/tasks/_app_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/compiler.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/copyright/profiles_settings.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/gradle.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/libraries/animated_vector_drawable_25_3_1.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/libraries/appcompat_v7_25_3_1.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/libraries/constraint_layout_1_0_1.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/libraries/constraint_layout_solver_1_0_1.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/libraries/espresso_core_2_2_2.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/libraries/espresso_idling_resource_2_2_2.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/libraries/exposed_instrumentation_api_publish_0_5.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/libraries/hamcrest_core_1_3.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/libraries/hamcrest_integration_1_3.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/libraries/hamcrest_library_1_3.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/libraries/javawriter_2_1_1.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/libraries/javax_annotation_api_1_2.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/libraries/javax_inject_1.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/libraries/jsr305_2_0_1.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/libraries/junit_4_12.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/libraries/rules_0_5.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/libraries/runner_0_5.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/libraries/support_annotations_25_3_1.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/libraries/support_compat_25_3_1.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/libraries/support_core_ui_25_3_1.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/libraries/support_core_utils_25_3_1.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/libraries/support_fragment_25_3_1.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/libraries/support_media_compat_25_3_1.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/libraries/support_v4_25_3_1.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/libraries/support_vector_drawable_25_3_1.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/misc.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/modules.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/runConfigurations.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/vcs.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/app/.DS_Store</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/app/.gitignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/app/app.iml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/app/build.gradle</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/app/proguard-rules.pro</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/app/src/androidTest/java/com/github/eight8ta/tetheringswitch/ExampleInstrumentedTest.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/app/src/main/AndroidManifest.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/app/src/main/java/com/github/eight8ta/tetheringswitch/MainActivity.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/app/src/main/res/layout/activity_main.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/app/src/main/res/mipmap-hdpi/ic_launcher.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/app/src/main/res/mipmap-hdpi/ic_launcher_round.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/app/src/main/res/mipmap-mdpi/ic_launcher.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/app/src/main/res/mipmap-mdpi/ic_launcher_round.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/app/src/main/res/mipmap-xhdpi/ic_launcher.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/app/src/main/res/mipmap-xxhdpi/ic_launcher.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/app/src/main/res/values/colors.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/app/src/main/res/values/strings.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/app/src/main/res/values/styles.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/app/src/test/java/com/github/eight8ta/tetheringswitch/ExampleUnitTest.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/app/tetheringswitch.apk</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build.gradle</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-09-23-01-10-147.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-13-36-58-171.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-13-43-59-846.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-13-46-35-942.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-13-46-56-581.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-13-48-54-007.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-13-54-03-748.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-14-01-40-720.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-14-03-29-972.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-14-06-12-933.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-14-10-50-106.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-14-12-35-398.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-14-30-31-331.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-14-58-26-349.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-15-03-46-070.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-15-16-47-601.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-15-16-51-364.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-15-18-07-432.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-15-23-00-040.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-15-40-36-533.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-15-50-51-963.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-16-02-00-610.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-16-02-07-152.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-16-03-00-992.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-16-10-37-635.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-16-10-58-676.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-16-11-05-348.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-16-11-11-874.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-16-11-24-632.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-16-11-33-821.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-16-12-15-523.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-16-12-16-795.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-16-13-45-032.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-16-13-56-443.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-16-13-57-761.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-16-14-13-102.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-16-14-14-233.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-16-14-28-508.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-16-18-49-534.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-16-24-50-367.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-16-31-13-754.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-16-31-36-891.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-21-33-29-637.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-18-22-18-28-033.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-21-21-35-01-014.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/android-profile/profile-2017-06-21-22-59-19-998.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/generated/mockable-android-19.jar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/generated/mockable-android-25.jar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/build/intermediates/dex-cache/cache.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/gradle.properties</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/gradle/wrapper/gradle-wrapper.jar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/gradle/wrapper/gradle-wrapper.properties</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/gradlew</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/gradlew.bat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/local.properties</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/settings.gradle</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/tetheringswitch</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/tetheringswitch/tetheringswitch.iml</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -2249,6 +2396,14 @@
       <option name="presentableId" value="Default" />
       <updated>1495961740104</updated>
     </task>
+    <task id="LOCAL-00001" summary="Applied android studio 3.0">
+      <created>1509114251254</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1509114251254</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -2272,8 +2427,8 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32845187" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2328,7 +2483,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Applied android studio 3.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Applied android studio 3.0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -2767,40 +2923,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="68" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2823,10 +2949,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/github/eight8ta/tetheringswitch/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="65" column="88" lean-forward="false" selection-start-line="65" selection-start-column="88" selection-end-line="65" selection-end-column="88" />
+        <state relative-caret-position="34">
+          <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
           <folding>
             <element signature="e#962#1104#0" expanded="true" />
             <element signature="e#1103#1104#0" expanded="true" />
@@ -2835,14 +2999,6 @@
             <element signature="e#1675#1922#0" expanded="true" />
             <element signature="e#1921#1922#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
